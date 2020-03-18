@@ -15,6 +15,6 @@ Essa aplicação foi desenvolvida no 7º modulo do GoStack 10.0.
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd rocketshoes-mobile`;
+2. Entre na pasta rodando `cd rocketshoes`;
 3. Rode `yarn` para instalar as dependências;
 4. Rode `yarn start` para iniciar a aplicação.
